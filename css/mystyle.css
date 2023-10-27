@@ -1,0 +1,109 @@
+a{
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+}
+a{
+    padding-left: 5px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+a:hover{
+    text-decoration: underline;
+    color: black;
+}
+header{
+    padding: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+nav{
+   
+    padding: 3px;
+}
+nav{
+    display: flex;
+    flex-direction: row;
+}
+
+.aca{
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+    border: 3px solid ;
+    border-collapse: separate;
+    border-spacing: 15px;
+    padding: 5px;
+    text-decoration: none;
+    text-transform: uppercase;
+    text-align: center;
+}
+.aca:hover{
+    background-color: green;
+    text-decoration: none;
+    
+}
+.ho{
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+    border: 3px solid ;
+    margin-right: 10px;
+    margin-left: 10px;
+    padding: 5px;
+    text-decoration: none;
+    text-transform: uppercase;
+    text-align: center;
+}
+.ho:hover{
+    background-color: green;
+    text-decoration: none;
+}
+.ad{
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+    border: 3px solid ;
+    padding: 5px;
+    margin-right: 10px;
+    margin-left: 10px;
+    text-decoration: none;
+    text-transform: uppercase;
+    text-align: center;
+}
+.ad:hover{
+    background-color: green;
+    text-decoration: none;
+}
+.con{
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+    border: 3px solid ;
+    border-collapse: separate;
+    border-spacing: 15px ;
+    padding: 5px;
+    text-decoration: none;
+    text-transform: uppercase;
+    text-align: center;
+}
+.con:hover{
+    
+    background-color: green;
+    text-decoration: none;
+}
+.anadawan{
+  
+    padding: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.navi{
+    padding: 30px;
+}
+.navi{
+    display: flex;
+    flex-direction: row;
+}
+
+
